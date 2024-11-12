@@ -1,3 +1,11 @@
+"""
+This is a fork of mplsoccer code from 
+https://github.com/andrewRowlinson/mplsoccer/blob/main/mplsoccer/heatmap.py
+
+This code is authored and owned by Andrew Rowlinson. Its been copied here to apply
+modifications to allow the use of gaussian_filter and zoom
+"""
+
 import numpy as np
 from scipy.stats import binned_statistic_2d
 from scipy.ndimage import gaussian_filter, zoom
