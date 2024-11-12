@@ -1,0 +1,1445 @@
+x,y,team,is_home_team
+49.7,49.9,man city,0
+24.1,44.0,man city,0
+5.1,46.7,arsenal,1
+57.9,2.8,arsenal,1
+32.6,92.4,man city,0
+56.1,12.3,arsenal,1
+61.2,4.9,arsenal,1
+15.6,90.3,man city,0
+14.6,90.0,man city,0
+5.2,71.1,man city,0
+39.4,26.8,arsenal,1
+60.6,73.2,man city,0
+38.3,25.0,arsenal,1
+44.2,5.9,arsenal,1
+58.3,90.9,man city,0
+46.7,90.6,man city,0
+53.9,55.4,man city,0
+54.3,30.5,man city,0
+48.4,44.9,man city,0
+55.4,36.2,man city,0
+53.1,54.2,man city,0
+46.6,65.6,man city,0
+42.5,32.6,man city,0
+35.7,56.6,man city,0
+44.1,56.6,man city,0
+42.2,55.7,man city,0
+44.1,35.3,man city,0
+38.2,27.5,man city,0
+33.4,70.4,man city,0
+41.5,66.2,man city,0
+34.5,63.8,man city,0
+38.8,48.7,man city,0
+31.3,30.8,man city,0
+14.6,53.1,man city,0
+22.4,57.5,man city,0
+19.6,82.2,man city,0
+28.9,92.9,man city,0
+30.8,87.6,man city,0
+29.4,92.0,man city,0
+31.7,74.3,man city,0
+27.8,38.5,man city,0
+45.8,7.1,man city,0
+53.9,28.9,man city,0
+53.4,42.5,man city,0
+57.9,31.7,man city,0
+71.7,4.1,man city,0
+59.5,10.9,man city,0
+59.1,27.5,man city,0
+57.7,12.2,man city,0
+63.2,25.4,man city,0
+37.6,72.4,arsenal,1
+62.0,24.8,man city,0
+31.2,76.7,arsenal,1
+34.8,73.2,arsenal,1
+34.8,73.2,arsenal,1
+10.0,46.5,arsenal,1
+15.9,15.4,arsenal,1
+4.8,48.2,arsenal,1
+67.8,73.2,man city,0
+70.5,74.3,man city,0
+29.8,36.4,arsenal,1
+27.8,53.8,arsenal,1
+19.2,55.2,arsenal,1
+81.2,0.0,man city,0
+9.3,77.5,arsenal,1
+99.7,0.4,man city,0
+96.2,58.3,man city,0
+12.9,65.8,arsenal,1
+79.9,36.5,man city,0
+87.7,46.6,man city,0
+12.3,53.4,arsenal,1
+87.1,41.8,man city,0
+92.4,53.1,man city,0
+4.0,60.2,arsenal,1
+6.0,46.4,arsenal,1
+70.7,28.4,arsenal,1
+76.1,8.3,arsenal,1
+28.5,84.2,man city,0
+84.8,0.0,arsenal,1
+70.3,18.5,arsenal,1
+55.4,31.9,arsenal,1
+44.6,44.1,arsenal,1
+57.5,16.3,arsenal,1
+41.0,85.7,man city,0
+68.7,0.0,arsenal,1
+24.1,79.3,man city,0
+32.0,77.7,man city,0
+30.1,77.5,man city,0
+69.9,22.5,arsenal,1
+14.0,58.2,man city,0
+15.7,28.4,man city,0
+8.7,49.4,man city,0
+25.6,5.5,man city,0
+12.6,16.7,man city,0
+20.8,26.2,man city,0
+21.9,9.5,man city,0
+25.8,3.2,man city,0
+8.9,10.0,man city,0
+86.2,90.4,arsenal,1
+36.3,0.0,man city,0
+8.7,40.7,man city,0
+14.7,67.8,man city,0
+7.6,50.6,man city,0
+15.1,53.4,man city,0
+8.1,84.2,man city,0
+14.1,94.5,man city,0
+27.0,96.8,man city,0
+73.0,7.1,arsenal,1
+23.5,93.6,man city,0
+74.4,0.0,arsenal,1
+56.2,18.0,arsenal,1
+44.2,45.9,arsenal,1
+38.0,17.7,arsenal,1
+33.1,57.0,arsenal,1
+68.3,94.8,arsenal,1
+42.6,14.5,man city,0
+42.0,13.9,man city,0
+36.7,7.0,man city,0
+26.0,22.1,man city,0
+12.0,47.8,man city,0
+23.2,89.0,man city,0
+35.2,94.0,man city,0
+64.8,6.0,arsenal,1
+36.0,96.3,man city,0
+69.3,7.2,arsenal,1
+70.3,8.2,arsenal,1
+29.7,91.8,man city,0
+29.5,88.8,man city,0
+26.4,33.3,arsenal,1
+25.0,30.5,arsenal,1
+35.2,36.8,arsenal,1
+47.1,91.7,arsenal,1
+40.9,69.2,arsenal,1
+35.9,44.4,arsenal,1
+39.6,60.7,arsenal,1
+31.6,51.9,arsenal,1
+33.2,74.9,arsenal,1
+45.5,70.4,arsenal,1
+93.5,28.0,arsenal,1
+99.5,0.5,arsenal,1
+91.6,41.7,arsenal,1
+8.4,58.3,man city,0
+92.2,42.5,arsenal,1
+6.7,70.1,man city,0
+15.0,64.6,man city,0
+85.0,35.4,arsenal,1
+15.2,62.9,man city,0
+21.2,60.8,man city,0
+23.2,68.6,man city,0
+72.3,38.7,arsenal,1
+70.1,66.4,arsenal,1
+65.1,37.1,arsenal,1
+65.4,11.9,arsenal,1
+64.8,23.7,arsenal,1
+93.9,13.4,arsenal,1
+11.4,84.9,man city,0
+86.4,25.4,arsenal,1
+13.6,74.6,man city,0
+74.9,33.4,arsenal,1
+71.1,52.2,arsenal,1
+68.8,70.0,arsenal,1
+20.1,69.5,man city,0
+9.1,53.9,man city,0
+19.4,25.1,man city,0
+8.3,53.9,man city,0
+11.5,86.1,man city,0
+23.6,95.0,man city,0
+18.8,96.6,man city,0
+45.6,88.6,man city,0
+56.6,89.6,man city,0
+54.4,54.3,man city,0
+56.0,36.4,man city,0
+38.0,29.2,man city,0
+24.0,55.8,man city,0
+57.6,76.3,arsenal,1
+60.9,77.3,arsenal,1
+72.2,87.2,arsenal,1
+83.8,92.9,arsenal,1
+69.0,80.7,arsenal,1
+55.5,58.2,arsenal,1
+59.0,93.8,arsenal,1
+53.6,71.5,arsenal,1
+42.1,51.3,arsenal,1
+36.6,83.4,arsenal,1
+34.0,64.3,arsenal,1
+28.8,52.5,arsenal,1
+25.7,80.9,arsenal,1
+15.6,56.4,arsenal,1
+13.6,51.8,man city,0
+14.8,53.6,man city,0
+34.6,30.4,man city,0
+42.6,30.5,man city,0
+37.0,25.3,man city,0
+24.4,52.8,man city,0
+47.0,95.2,man city,0
+46.2,86.1,man city,0
+43.9,92.0,man city,0
+42.1,63.3,man city,0
+44.2,26.2,man city,0
+61.9,7.7,man city,0
+56.3,32.8,man city,0
+64.6,25.7,man city,0
+72.7,22.7,man city,0
+66.7,24.1,man city,0
+67.1,11.8,man city,0
+28.6,70.7,arsenal,1
+21.1,85.2,arsenal,1
+21.1,85.2,arsenal,1
+6.6,54.7,arsenal,1
+14.0,57.0,arsenal,1
+19.0,29.4,arsenal,1
+12.9,51.9,arsenal,1
+19.4,46.1,arsenal,1
+9.8,53.5,arsenal,1
+11.3,75.5,arsenal,1
+36.7,46.6,man city,0
+39.0,34.1,man city,0
+44.2,13.1,man city,0
+53.2,5.2,man city,0
+41.0,14.0,man city,0
+41.6,52.2,man city,0
+42.9,51.3,man city,0
+53.4,72.0,man city,0
+48.3,64.5,man city,0
+55.9,70.2,man city,0
+48.5,62.9,man city,0
+54.0,31.1,man city,0
+56.2,45.4,man city,0
+60.0,24.8,man city,0
+11.7,55.3,arsenal,1
+26.3,47.8,arsenal,1
+38.2,11.4,arsenal,1
+44.2,95.1,man city,0
+58.2,0.0,arsenal,1
+31.8,15.3,arsenal,1
+28.4,62.7,arsenal,1
+24.3,74.4,arsenal,1
+23.8,19.1,arsenal,1
+36.4,7.4,arsenal,1
+27.5,19.6,arsenal,1
+35.5,23.1,arsenal,1
+36.9,8.5,arsenal,1
+41.1,14.6,arsenal,1
+27.8,34.8,arsenal,1
+29.0,70.1,arsenal,1
+27.4,89.4,arsenal,1
+20.5,68.7,arsenal,1
+12.7,29.5,arsenal,1
+58.9,67.4,man city,0
+56.5,68.1,man city,0
+45.7,45.4,man city,0
+57.8,38.2,man city,0
+52.7,37.6,man city,0
+58.6,42.2,man city,0
+59.0,33.5,man city,0
+38.9,40.0,man city,0
+44.7,45.8,man city,0
+47.5,21.4,man city,0
+56.5,22.3,man city,0
+38.6,53.9,man city,0
+45.9,45.2,man city,0
+58.8,15.1,man city,0
+69.2,35.0,man city,0
+31.0,59.0,arsenal,1
+70.2,25.6,man city,0
+31.3,61.6,arsenal,1
+74.6,29.5,man city,0
+11.4,53.6,arsenal,1
+85.2,11.3,man city,0
+14.1,55.8,arsenal,1
+16.2,70.1,arsenal,1
+29.9,74.9,arsenal,1
+22.7,94.3,arsenal,1
+6.2,82.3,arsenal,1
+3.3,59.6,arsenal,1
+98.0,38.9,man city,0
+4.2,59.3,arsenal,1
+13.4,51.8,arsenal,1
+23.0,76.6,arsenal,1
+18.2,46.4,arsenal,1
+19.2,11.7,arsenal,1
+40.6,14.6,arsenal,1
+42.7,13.4,arsenal,1
+73.5,15.7,arsenal,1
+25.6,83.3,man city,0
+24.3,83.9,man city,0
+57.0,12.3,arsenal,1
+52.1,14.3,arsenal,1
+58.9,21.4,arsenal,1
+55.6,27.1,arsenal,1
+37.8,48.7,arsenal,1
+38.3,32.2,arsenal,1
+35.5,56.9,arsenal,1
+38.4,48.4,arsenal,1
+29.9,35.1,arsenal,1
+31.1,14.9,arsenal,1
+29.4,8.8,arsenal,1
+17.6,12.3,arsenal,1
+8.3,50.1,arsenal,1
+10.4,75.0,arsenal,1
+5.4,51.9,arsenal,1
+8.4,18.3,arsenal,1
+11.4,6.5,arsenal,1
+7.0,6.5,arsenal,1
+27.2,8.4,arsenal,1
+72.8,91.6,man city,0
+27.0,8.7,arsenal,1
+73.0,91.3,man city,0
+74.5,88.2,man city,0
+73.6,93.0,man city,0
+73.4,85.2,man city,0
+68.9,89.6,man city,0
+68.4,59.9,man city,0
+4.8,59.8,arsenal,1
+14.8,47.0,arsenal,1
+35.1,87.2,man city,0
+64.9,12.8,arsenal,1
+37.3,85.9,man city,0
+58.6,62.0,man city,0
+58.8,60.6,man city,0
+53.3,54.5,man city,0
+42.0,28.9,man city,0
+12.3,48.7,arsenal,1
+21.9,41.3,arsenal,1
+40.4,21.9,arsenal,1
+59.6,78.1,man city,0
+63.8,89.1,man city,0
+67.6,90.3,man city,0
+32.3,40.5,arsenal,1
+37.3,40.7,arsenal,1
+38.2,41.4,arsenal,1
+31.6,21.7,man city,0
+32.2,19.3,man city,0
+24.1,26.3,man city,0
+8.8,52.4,man city,0
+21.4,61.4,man city,0
+8.1,53.0,man city,0
+13.4,89.9,man city,0
+36.9,81.0,man city,0
+30.8,76.2,man city,0
+69.2,23.8,arsenal,1
+32.0,83.3,man city,0
+35.9,95.4,man city,0
+37.9,88.8,man city,0
+31.1,92.0,man city,0
+21.1,78.6,man city,0
+40.3,41.0,man city,0
+54.9,28.1,man city,0
+59.8,4.6,man city,0
+52.0,26.3,man city,0
+60.9,27.1,man city,0
+52.9,40.0,man city,0
+57.0,44.3,man city,0
+51.6,48.5,man city,0
+60.0,73.2,man city,0
+64.6,94.8,man city,0
+57.1,86.0,man city,0
+67.2,75.6,man city,0
+59.8,87.2,man city,0
+88.6,80.4,man city,0
+10.3,32.7,arsenal,1
+88.8,71.3,man city,0
+62.7,24.4,man city,0
+58.4,33.5,man city,0
+38.2,64.1,arsenal,1
+39.8,64.3,arsenal,1
+38.2,64.5,arsenal,1
+39.0,70.9,arsenal,1
+39.4,84.4,arsenal,1
+35.5,72.9,arsenal,1
+37.7,90.0,arsenal,1
+24.9,75.3,arsenal,1
+10.8,59.3,arsenal,1
+24.0,61.7,arsenal,1
+76.0,38.3,man city,0
+75.1,31.7,man city,0
+80.1,31.1,man city,0
+86.6,28.0,man city,0
+9.9,57.0,arsenal,1
+99.1,15.4,man city,0
+97.4,31.8,man city,0
+2.2,68.4,arsenal,1
+4.6,52.5,arsenal,1
+25.5,63.5,arsenal,1
+29.4,47.3,arsenal,1
+33.7,26.0,arsenal,1
+23.9,33.1,arsenal,1
+35.3,63.8,arsenal,1
+33.3,88.1,arsenal,1
+33.6,61.6,arsenal,1
+27.2,33.4,man city,0
+24.9,5.3,man city,0
+26.3,5.2,man city,0
+13.5,7.9,man city,0
+37.8,72.0,arsenal,1
+36.5,67.9,arsenal,1
+45.3,56.7,arsenal,1
+47.4,86.1,arsenal,1
+68.3,93.7,arsenal,1
+61.6,85.1,arsenal,1
+57.9,72.3,arsenal,1
+48.9,76.1,arsenal,1
+66.5,47.5,arsenal,1
+81.4,18.0,arsenal,1
+77.5,15.1,arsenal,1
+80.5,10.0,arsenal,1
+73.2,29.0,arsenal,1
+10.9,73.4,man city,0
+10.0,63.2,man city,0
+42.3,4.3,man city,0
+44.0,14.5,man city,0
+39.6,5.9,man city,0
+26.6,9.8,man city,0
+61.8,100.0,arsenal,1
+40.3,89.1,arsenal,1
+62.0,95.5,arsenal,1
+87.4,71.3,arsenal,1
+4.5,56.0,man city,0
+13.5,50.0,man city,0
+9.0,60.3,man city,0
+14.7,88.2,man city,0
+26.0,94.8,man city,0
+26.8,88.5,man city,0
+26.3,95.7,man city,0
+28.0,70.4,man city,0
+26.7,73.8,man city,0
+11.7,49.7,man city,0
+22.7,81.6,man city,0
+72.1,19.0,arsenal,1
+34.7,100.0,man city,0
+41.8,93.0,man city,0
+67.8,7.1,arsenal,1
+67.8,7.1,arsenal,1
+71.3,13.6,arsenal,1
+63.6,34.8,arsenal,1
+36.4,65.2,man city,0
+65.0,42.5,arsenal,1
+80.5,76.1,arsenal,1
+10.2,43.1,man city,0
+77.5,25.4,arsenal,1
+87.4,17.4,arsenal,1
+68.7,25.6,arsenal,1
+64.1,25.9,arsenal,1
+63.1,9.6,arsenal,1
+55.6,30.8,arsenal,1
+59.9,10.2,arsenal,1
+58.4,7.2,arsenal,1
+38.8,24.7,arsenal,1
+44.4,25.5,arsenal,1
+43.5,21.3,arsenal,1
+25.8,82.9,man city,0
+74.2,17.1,arsenal,1
+24.9,80.6,man city,0
+28.0,84.8,man city,0
+27.3,82.1,man city,0
+27.3,82.8,man city,0
+27.0,71.6,man city,0
+69.0,11.4,arsenal,1
+76.4,8.8,arsenal,1
+82.5,5.2,arsenal,1
+9.7,46.3,man city,0
+28.8,3.2,man city,0
+19.2,18.4,man city,0
+9.0,52.8,man city,0
+25.2,90.9,man city,0
+34.2,90.1,man city,0
+65.8,9.9,arsenal,1
+36.8,100.0,man city,0
+66.3,87.2,man city,0
+33.7,12.8,arsenal,1
+68.9,86.3,man city,0
+28.2,20.5,arsenal,1
+68.8,84.6,man city,0
+63.5,71.7,man city,0
+80.4,25.6,man city,0
+86.7,36.4,man city,0
+12.4,60.4,arsenal,1
+55.9,3.5,man city,0
+46.8,94.8,arsenal,1
+46.1,0.0,man city,0
+42.0,57.0,man city,0
+54.0,72.9,man city,0
+36.7,71.7,man city,0
+16.7,54.2,man city,0
+28.1,43.3,man city,0
+36.8,10.3,man city,0
+48.0,2.9,man city,0
+36.3,9.1,man city,0
+26.1,25.0,man city,0
+14.4,60.6,man city,0
+72.0,61.7,man city,0
+74.2,39.6,man city,0
+4.0,58.1,arsenal,1
+22.5,46.5,arsenal,1
+28.8,37.8,arsenal,1
+26.4,25.7,arsenal,1
+13.5,70.2,man city,0
+83.4,13.1,arsenal,1
+13.8,88.5,man city,0
+9.6,94.4,man city,0
+90.4,5.6,arsenal,1
+89.4,8.2,arsenal,1
+93.3,7.8,arsenal,1
+6.7,92.2,man city,0
+99.4,0.8,arsenal,1
+3.3,58.8,man city,0
+15.1,63.5,man city,0
+69.0,47.5,arsenal,1
+60.6,33.0,arsenal,1
+19.0,74.3,man city,0
+64.5,21.4,arsenal,1
+51.8,41.6,arsenal,1
+30.8,46.1,arsenal,1
+79.3,6.0,arsenal,1
+19.6,85.5,man city,0
+18.9,87.3,man city,0
+77.8,14.6,arsenal,1
+20.9,100.0,man city,0
+41.4,93.6,man city,0
+31.3,39.1,arsenal,1
+31.3,39.1,arsenal,1
+24.5,53.6,arsenal,1
+24.6,71.2,arsenal,1
+25.1,52.1,arsenal,1
+93.0,9.6,arsenal,1
+11.9,86.7,man city,0
+75.2,42.2,arsenal,1
+80.2,51.2,arsenal,1
+19.8,48.8,man city,0
+81.4,50.8,arsenal,1
+28.9,33.1,man city,0
+28.1,27.0,man city,0
+73.9,74.0,arsenal,1
+36.2,44.2,man city,0
+66.8,59.0,arsenal,1
+67.3,33.1,arsenal,1
+67.3,33.1,arsenal,1
+62.4,29.7,arsenal,1
+81.5,10.5,arsenal,1
+10.3,82.2,man city,0
+89.5,0.0,arsenal,1
+96.8,26.0,arsenal,1
+88.4,39.1,arsenal,1
+77.1,53.1,arsenal,1
+83.8,62.4,arsenal,1
+37.9,28.7,man city,0
+38.5,27.8,man city,0
+33.3,73.7,arsenal,1
+33.7,61.8,arsenal,1
+46.0,65.6,arsenal,1
+46.8,75.5,arsenal,1
+47.2,60.6,arsenal,1
+52.0,71.3,arsenal,1
+47.9,59.3,arsenal,1
+55.9,88.7,arsenal,1
+46.1,65.8,arsenal,1
+39.7,37.9,arsenal,1
+45.1,15.7,arsenal,1
+77.4,13.7,arsenal,1
+88.3,19.7,arsenal,1
+12.1,72.2,man city,0
+12.3,72.0,man city,0
+10.3,73.2,man city,0
+21.0,88.8,man city,0
+30.3,67.4,man city,0
+57.4,40.4,man city,0
+72.5,21.8,man city,0
+9.0,51.9,arsenal,1
+19.0,61.8,arsenal,1
+19.0,61.8,arsenal,1
+12.2,61.2,arsenal,1
+23.4,62.9,arsenal,1
+31.1,93.1,arsenal,1
+27.4,89.6,arsenal,1
+72.6,10.4,man city,0
+73.4,10.0,man city,0
+20.3,88.1,arsenal,1
+51.6,28.6,man city,0
+51.7,28.4,man city,0
+46.9,45.7,man city,0
+44.4,33.7,man city,0
+53.3,18.1,man city,0
+46.5,35.5,man city,0
+39.1,72.5,man city,0
+45.8,84.2,man city,0
+58.2,78.0,man city,0
+42.8,69.9,man city,0
+65.7,61.5,man city,0
+62.4,56.9,man city,0
+65.9,71.1,man city,0
+90.5,84.2,man city,0
+4.8,62.9,arsenal,1
+99.5,0.5,man city,0
+8.5,52.1,arsenal,1
+84.9,90.6,man city,0
+13.9,13.4,arsenal,1
+72.1,82.7,man city,0
+23.6,76.2,man city,0
+58.1,90.6,man city,0
+41.0,83.6,man city,0
+28.8,13.6,arsenal,1
+31.7,18.8,arsenal,1
+30.5,19.7,arsenal,1
+15.2,43.1,arsenal,1
+29.7,70.1,arsenal,1
+20.5,54.5,arsenal,1
+26.1,60.7,arsenal,1
+24.7,76.9,arsenal,1
+47.3,12.8,arsenal,1
+57.8,6.8,arsenal,1
+21.8,91.4,man city,0
+20.7,91.8,man city,0
+8.0,63.5,man city,0
+30.5,88.4,man city,0
+68.8,23.7,arsenal,1
+28.0,72.2,man city,0
+27.3,57.0,man city,0
+37.3,19.0,man city,0
+45.1,3.5,man city,0
+36.0,11.5,man city,0
+19.4,48.2,man city,0
+36.5,17.6,man city,0
+46.7,4.0,man city,0
+34.8,12.1,man city,0
+38.5,38.0,man city,0
+55.0,86.3,man city,0
+46.7,61.2,man city,0
+53.3,75.3,man city,0
+54.4,57.6,man city,0
+45.0,57.6,man city,0
+54.2,47.8,man city,0
+40.7,54.2,man city,0
+31.7,37.4,man city,0
+61.1,94.4,man city,0
+59.3,81.3,man city,0
+44.9,53.4,man city,0
+59.7,31.1,man city,0
+54.4,40.3,man city,0
+62.2,70.4,man city,0
+15.3,77.5,arsenal,1
+30.9,81.7,arsenal,1
+32.2,82.6,arsenal,1
+32.8,59.0,arsenal,1
+43.7,27.0,arsenal,1
+65.1,14.5,arsenal,1
+55.8,55.3,arsenal,1
+45.2,67.5,arsenal,1
+53.6,83.8,arsenal,1
+59.4,28.8,arsenal,1
+55.9,39.4,arsenal,1
+55.8,69.3,arsenal,1
+75.9,91.1,arsenal,1
+79.8,93.4,arsenal,1
+78.2,87.8,arsenal,1
+73.5,91.5,arsenal,1
+74.8,67.3,arsenal,1
+68.4,43.8,arsenal,1
+68.2,14.6,arsenal,1
+76.6,18.6,arsenal,1
+71.2,10.2,arsenal,1
+64.3,17.1,arsenal,1
+58.3,33.6,arsenal,1
+61.0,27.0,arsenal,1
+69.3,23.6,arsenal,1
+77.2,11.4,arsenal,1
+71.7,24.7,arsenal,1
+12.1,57.5,man city,0
+24.8,29.0,man city,0
+31.3,50.3,man city,0
+41.5,37.4,man city,0
+35.8,68.0,man city,0
+41.1,84.9,man city,0
+35.6,62.9,man city,0
+41.5,27.5,man city,0
+60.6,5.2,man city,0
+58.4,17.8,man city,0
+44.6,32.9,man city,0
+57.2,25.0,man city,0
+41.8,32.0,man city,0
+55.9,28.9,man city,0
+54.9,41.2,man city,0
+45.2,25.3,man city,0
+71.2,5.6,man city,0
+27.7,62.2,arsenal,1
+30.0,69.5,arsenal,1
+28.4,72.5,arsenal,1
+29.8,71.5,arsenal,1
+71.1,90.6,arsenal,1
+49.9,49.8,arsenal,1
+32.5,39.0,arsenal,1
+7.9,90.8,man city,0
+8.3,91.5,man city,0
+86.1,8.3,arsenal,1
+9.9,91.2,man city,0
+13.9,87.9,man city,0
+75.3,8.6,arsenal,1
+33.5,85.2,man city,0
+39.8,41.5,man city,0
+35.3,9.2,man city,0
+11.6,87.5,arsenal,1
+8.5,85.1,arsenal,1
+2.2,54.7,arsenal,1
+38.3,10.5,arsenal,1
+65.4,94.5,man city,0
+36.9,0.0,arsenal,1
+40.5,5.1,arsenal,1
+36.3,2.0,arsenal,1
+54.4,69.1,man city,0
+45.6,30.9,arsenal,1
+57.5,16.2,arsenal,1
+71.7,23.9,arsenal,1
+80.2,38.8,arsenal,1
+19.8,61.2,man city,0
+66.8,40.5,arsenal,1
+68.6,71.3,arsenal,1
+72.9,78.0,arsenal,1
+76.1,87.2,arsenal,1
+77.4,72.7,arsenal,1
+3.7,51.8,man city,0
+8.8,46.9,man city,0
+3.5,60.5,man city,0
+6.2,12.8,man city,0
+71.9,88.9,arsenal,1
+71.9,88.9,arsenal,1
+69.6,63.5,arsenal,1
+56.8,51.8,arsenal,1
+68.9,10.5,arsenal,1
+89.0,16.0,arsenal,1
+12.1,90.3,man city,0
+5.4,84.2,man city,0
+4.7,84.6,man city,0
+95.1,13.4,arsenal,1
+6.7,93.6,man city,0
+92.6,8.5,arsenal,1
+8.5,100.0,man city,0
+13.5,95.1,man city,0
+4.8,97.8,man city,0
+89.7,0.0,arsenal,1
+98.5,19.0,arsenal,1
+9.7,50.3,man city,0
+13.1,16.9,man city,0
+5.9,42.5,man city,0
+20.3,75.5,man city,0
+4.5,57.9,man city,0
+12.9,13.4,man city,0
+21.7,21.4,man city,0
+36.5,38.8,man city,0
+53.7,57.3,arsenal,1
+54.9,58.4,arsenal,1
+61.1,77.0,arsenal,1
+79.0,91.4,arsenal,1
+92.4,80.4,arsenal,1
+8.8,20.9,man city,0
+99.5,99.5,arsenal,1
+2.9,50.4,man city,0
+97.1,49.6,arsenal,1
+4.1,51.0,man city,0
+97.7,30.3,arsenal,1
+5.4,59.1,man city,0
+91.1,54.5,arsenal,1
+78.3,42.8,arsenal,1
+4.1,54.3,man city,0
+46.2,28.7,arsenal,1
+62.3,37.1,arsenal,1
+62.3,37.1,arsenal,1
+36.1,44.0,man city,0
+63.9,56.0,arsenal,1
+74.7,60.1,arsenal,1
+91.5,69.9,arsenal,1
+5.6,47.0,man city,0
+14.1,70.2,man city,0
+53.0,10.5,arsenal,1
+47.5,10.0,arsenal,1
+36.8,32.2,arsenal,1
+32.0,56.1,arsenal,1
+23.4,57.0,arsenal,1
+22.1,81.4,arsenal,1
+10.7,63.8,arsenal,1
+35.0,10.9,arsenal,1
+26.3,16.8,arsenal,1
+21.1,12.2,arsenal,1
+18.6,49.6,arsenal,1
+30.2,90.5,man city,0
+37.4,90.2,man city,0
+39.2,87.6,man city,0
+41.2,92.4,man city,0
+26.6,76.2,man city,0
+22.0,54.3,man city,0
+57.3,33.5,man city,0
+38.4,66.7,arsenal,1
+43.2,65.9,arsenal,1
+57.7,72.4,arsenal,1
+71.6,89.2,arsenal,1
+57.8,72.0,arsenal,1
+60.3,28.5,arsenal,1
+78.9,14.6,arsenal,1
+7.1,51.6,man city,0
+38.1,8.6,man city,0
+36.6,20.2,man city,0
+39.3,6.5,man city,0
+15.7,12.2,man city,0
+6.4,46.1,man city,0
+76.0,13.8,arsenal,1
+24.0,86.2,man city,0
+43.2,83.0,man city,0
+55.2,56.7,man city,0
+44.8,43.3,arsenal,1
+22.3,29.1,arsenal,1
+22.3,29.1,arsenal,1
+7.7,58.7,arsenal,1
+9.0,85.8,arsenal,1
+21.1,66.9,arsenal,1
+36.8,17.6,arsenal,1
+39.9,31.1,arsenal,1
+34.8,40.1,arsenal,1
+39.9,21.9,arsenal,1
+22.7,0.0,man city,0
+37.1,11.5,man city,0
+55.8,96.0,arsenal,1
+36.3,0.0,man city,0
+24.8,4.6,man city,0
+13.7,11.3,man city,0
+7.2,52.2,man city,0
+31.4,95.0,man city,0
+35.0,91.2,man city,0
+65.0,8.8,arsenal,1
+65.2,11.9,arsenal,1
+57.0,14.6,arsenal,1
+60.1,19.1,arsenal,1
+74.6,23.3,arsenal,1
+93.1,30.4,arsenal,1
+10.5,83.7,man city,0
+79.4,16.9,arsenal,1
+20.6,83.1,man city,0
+23.0,82.1,man city,0
+77.0,17.9,arsenal,1
+68.9,22.0,arsenal,1
+27.3,85.2,man city,0
+28.5,94.6,man city,0
+41.6,91.7,man city,0
+45.1,66.2,man city,0
+70.0,43.5,man city,0
+69.6,39.4,man city,0
+14.6,65.5,arsenal,1
+71.4,28.8,man city,0
+28.6,71.2,arsenal,1
+70.9,27.8,man city,0
+78.2,26.8,man city,0
+77.6,29.8,man city,0
+73.9,32.9,man city,0
+14.1,61.3,arsenal,1
+24.2,21.9,arsenal,1
+24.1,45.3,arsenal,1
+22.7,70.6,arsenal,1
+27.5,54.4,arsenal,1
+28.2,75.5,arsenal,1
+28.9,40.7,arsenal,1
+29.8,75.3,arsenal,1
+21.6,83.0,arsenal,1
+10.4,58.1,arsenal,1
+11.9,31.1,arsenal,1
+14.8,50.7,arsenal,1
+26.0,44.1,arsenal,1
+33.2,11.4,arsenal,1
+57.4,1.1,arsenal,1
+36.8,95.9,man city,0
+36.8,95.9,man city,0
+19.2,61.4,man city,0
+23.2,78.8,man city,0
+15.0,57.8,man city,0
+19.9,17.0,man city,0
+24.9,5.8,man city,0
+48.1,35.6,man city,0
+55.5,56.3,man city,0
+74.3,75.3,man city,0
+86.6,53.6,man city,0
+85.0,47.6,man city,0
+69.6,57.0,man city,0
+72.7,33.7,man city,0
+65.8,38.5,man city,0
+60.4,67.4,man city,0
+70.1,90.3,man city,0
+64.8,69.3,man city,0
+64.5,83.9,man city,0
+63.3,50.3,man city,0
+29.0,46.7,arsenal,1
+71.0,53.3,man city,0
+68.4,52.8,man city,0
+28.8,33.7,arsenal,1
+28.8,33.7,arsenal,1
+24.0,17.1,arsenal,1
+26.6,23.7,arsenal,1
+24.6,14.5,arsenal,1
+26.8,25.1,arsenal,1
+29.3,31.3,arsenal,1
+23.1,19.0,arsenal,1
+30.7,9.9,arsenal,1
+28.0,3.5,arsenal,1
+17.3,11.3,arsenal,1
+24.7,15.1,arsenal,1
+12.6,11.6,arsenal,1
+6.7,24.8,arsenal,1
+4.3,57.0,arsenal,1
+6.4,84.7,arsenal,1
+14.2,92.1,arsenal,1
+7.6,90.8,arsenal,1
+36.6,0.0,man city,0
+43.7,38.8,man city,0
+46.0,35.2,man city,0
+44.1,65.6,man city,0
+42.6,31.0,man city,0
+54.8,16.9,man city,0
+36.4,20.3,man city,0
+22.4,54.3,man city,0
+41.0,27.9,arsenal,1
+57.4,29.7,arsenal,1
+55.2,26.7,arsenal,1
+41.0,71.0,man city,0
+43.3,66.3,man city,0
+43.3,66.3,man city,0
+42.2,56.9,man city,0
+58.6,33.4,man city,0
+59.4,14.9,man city,0
+52.9,30.8,man city,0
+52.9,60.5,man city,0
+59.7,27.2,man city,0
+69.1,26.3,man city,0
+61.7,27.2,man city,0
+27.4,77.5,arsenal,1
+27.4,77.5,arsenal,1
+31.7,50.5,arsenal,1
+28.7,24.3,arsenal,1
+59.2,9.9,arsenal,1
+70.7,9.4,arsenal,1
+65.8,3.9,arsenal,1
+65.4,9.2,arsenal,1
+56.4,30.5,arsenal,1
+52.9,39.8,arsenal,1
+59.6,26.2,arsenal,1
+60.4,38.7,arsenal,1
+61.7,72.7,arsenal,1
+52.1,54.9,arsenal,1
+66.5,20.6,arsenal,1
+52.5,53.8,arsenal,1
+62.4,15.3,arsenal,1
+78.2,6.9,arsenal,1
+76.9,16.6,arsenal,1
+87.5,27.0,arsenal,1
+81.8,35.1,arsenal,1
+87.3,39.8,arsenal,1
+76.4,31.0,arsenal,1
+80.6,32.2,arsenal,1
+79.2,69.8,arsenal,1
+86.7,83.5,arsenal,1
+85.5,82.0,arsenal,1
+3.6,61.7,man city,0
+87.7,32.4,arsenal,1
+92.2,28.4,arsenal,1
+7.8,71.6,man city,0
+97.3,32.4,arsenal,1
+2.3,58.1,man city,0
+99.5,0.5,arsenal,1
+95.8,38.1,arsenal,1
+96.8,41.4,arsenal,1
+3.2,58.6,man city,0
+96.2,41.3,arsenal,1
+3.1,60.6,man city,0
+9.6,51.8,man city,0
+75.1,40.4,arsenal,1
+4.3,47.6,man city,0
+62.2,35.5,man city,0
+34.4,34.2,arsenal,1
+41.3,34.1,arsenal,1
+41.3,34.1,arsenal,1
+33.2,24.8,arsenal,1
+28.9,33.7,arsenal,1
+35.0,33.4,arsenal,1
+25.5,36.8,arsenal,1
+27.8,66.6,arsenal,1
+24.1,56.1,arsenal,1
+15.1,56.1,arsenal,1
+21.8,63.3,man city,0
+21.3,64.7,man city,0
+23.8,31.1,man city,0
+9.9,44.5,man city,0
+24.8,79.7,man city,0
+20.6,69.3,man city,0
+11.0,82.5,man city,0
+11.8,51.2,man city,0
+60.7,33.5,man city,0
+66.8,53.0,man city,0
+75.0,48.4,man city,0
+78.8,71.9,man city,0
+72.4,4.3,man city,0
+71.3,29.6,man city,0
+68.4,30.5,man city,0
+64.4,59.0,man city,0
+69.6,45.8,man city,0
+62.9,49.3,man city,0
+69.5,75.8,man city,0
+65.3,66.5,man city,0
+69.1,27.7,man city,0
+69.9,42.1,man city,0
+68.1,65.4,man city,0
+73.0,40.3,man city,0
+67.4,38.5,man city,0
+71.6,25.9,man city,0
+8.4,42.4,arsenal,1
+99.5,99.5,man city,0
+22.4,27.2,arsenal,1
+77.6,72.8,man city,0
+21.8,26.7,arsenal,1
+57.5,89.9,man city,0
+14.1,44.5,man city,0
+35.7,45.1,man city,0
+43.7,48.2,man city,0
+36.2,48.5,man city,0
+38.5,65.7,man city,0
+37.5,56.0,man city,0
+57.4,24.1,man city,0
+50.9,37.1,man city,0
+55.3,63.3,man city,0
+55.9,51.6,man city,0
+65.7,30.1,man city,0
+70.9,29.8,man city,0
+64.3,28.7,man city,0
+52.8,61.8,man city,0
+50.3,74.4,man city,0
+43.6,63.0,man city,0
+64.0,13.9,man city,0
+62.1,8.3,man city,0
+43.0,34.6,man city,0
+64.7,75.6,man city,0
+59.8,70.1,man city,0
+66.4,42.4,man city,0
+75.6,59.7,man city,0
+20.5,37.4,arsenal,1
+12.7,33.0,arsenal,1
+85.6,66.8,man city,0
+91.9,64.8,man city,0
+84.9,67.6,man city,0
+15.1,32.4,arsenal,1
+7.1,27.4,arsenal,1
+5.4,24.0,arsenal,1
+13.8,7.4,arsenal,1
+86.2,92.6,man city,0
+20.3,0.0,arsenal,1
+23.3,5.1,arsenal,1
+53.5,77.9,man city,0
+40.2,19.0,arsenal,1
+43.2,53.1,man city,0
+71.2,34.0,man city,0
+87.2,20.4,man city,0
+12.8,79.6,arsenal,1
+88.1,19.4,man city,0
+13.6,80.9,arsenal,1
+12.5,82.0,arsenal,1
+7.8,77.5,arsenal,1
+53.8,12.2,man city,0
+46.2,87.8,arsenal,1
+52.2,10.1,man city,0
+59.7,9.4,man city,0
+59.7,9.4,man city,0
+64.9,40.4,man city,0
+75.9,27.5,man city,0
+94.2,24.5,man city,0
+8.9,58.9,arsenal,1
+70.7,24.4,man city,0
+81.5,11.6,man city,0
+67.5,9.2,man city,0
+56.1,52.5,man city,0
+57.0,68.6,man city,0
+48.3,57.2,man city,0
+58.6,39.2,man city,0
+60.9,28.6,man city,0
+53.3,54.2,man city,0
+54.1,31.4,man city,0
+62.4,32.3,man city,0
+59.6,42.4,man city,0
+38.1,31.9,arsenal,1
+43.0,38.8,arsenal,1
+59.5,26.7,arsenal,1
+61.1,11.9,arsenal,1
+58.0,29.3,arsenal,1
+57.2,35.6,arsenal,1
+56.2,30.8,arsenal,1
+47.4,40.4,arsenal,1
+52.7,25.0,arsenal,1
+44.1,35.7,arsenal,1
+48.0,24.0,arsenal,1
+45.9,45.6,arsenal,1
+39.4,72.4,arsenal,1
+29.0,55.9,arsenal,1
+32.7,77.2,arsenal,1
+27.1,51.9,arsenal,1
+29.4,91.5,arsenal,1
+38.2,89.8,arsenal,1
+37.1,78.9,arsenal,1
+38.8,64.6,arsenal,1
+30.4,72.9,arsenal,1
+34.8,64.1,arsenal,1
+23.1,43.8,arsenal,1
+22.5,72.7,arsenal,1
+10.3,62.6,arsenal,1
+22.0,69.8,arsenal,1
+17.3,93.1,arsenal,1
+5.7,75.2,arsenal,1
+11.0,92.4,arsenal,1
+38.5,17.5,man city,0
+42.1,25.6,man city,0
+43.5,49.0,man city,0
+39.2,20.0,man city,0
+43.8,6.5,man city,0
+59.9,8.4,man city,0
+40.1,91.6,arsenal,1
+43.9,87.5,arsenal,1
+43.9,87.5,arsenal,1
+39.9,78.0,arsenal,1
+57.3,70.4,arsenal,1
+42.7,29.6,man city,0
+24.7,44.2,man city,0
+26.6,50.9,man city,0
+35.3,41.8,man city,0
+31.4,49.1,man city,0
+31.4,27.8,man city,0
+36.8,37.3,man city,0
+53.8,31.4,man city,0
+34.1,47.6,arsenal,1
+36.7,57.0,arsenal,1
+36.7,57.0,arsenal,1
+35.8,59.6,arsenal,1
+64.2,40.4,man city,0
+68.8,82.0,arsenal,1
+22.8,20.9,man city,0
+22.5,21.1,man city,0
+76.4,78.8,arsenal,1
+23.6,21.2,man city,0
+37.9,31.0,man city,0
+32.8,63.6,man city,0
+46.4,64.4,man city,0
+47.1,57.9,man city,0
+37.4,67.4,man city,0
+34.0,84.9,man city,0
+37.1,58.7,man city,0
+24.4,43.7,man city,0
+37.2,63.9,man city,0
+92.8,73.1,man city,0
+5.1,27.3,arsenal,1
+99.5,99.5,man city,0
+12.4,54.2,arsenal,1
+37.7,88.3,arsenal,1
+77.0,94.4,arsenal,1
+23.0,5.6,man city,0
+75.0,92.6,arsenal,1
+25.0,7.4,man city,0
+70.9,72.9,arsenal,1
+72.2,36.5,arsenal,1
+4.3,51.6,man city,0
+19.9,80.6,man city,0
+8.0,56.4,man city,0
+13.5,18.1,man city,0
+20.5,4.9,man city,0
+28.9,10.3,man city,0
+59.3,50.8,arsenal,1
+54.9,55.2,arsenal,1
+54.9,55.2,arsenal,1
+71.8,39.0,arsenal,1
+67.7,37.3,arsenal,1
+64.8,37.0,arsenal,1
+67.2,10.5,arsenal,1
+80.3,8.3,arsenal,1
+75.4,22.8,arsenal,1
+86.1,27.6,arsenal,1
+97.4,28.0,arsenal,1
+4.1,74.7,man city,0
+4.1,74.7,man city,0
+11.8,87.6,man city,0
+88.2,12.4,arsenal,1
+22.0,88.0,man city,0
+78.0,12.0,arsenal,1
+67.9,12.2,arsenal,1
+71.5,12.0,arsenal,1
+86.1,8.8,arsenal,1
+13.9,91.2,man city,0
+90.4,9.8,arsenal,1
+9.6,90.2,man city,0
+99.5,0.5,arsenal,1
+3.2,55.2,man city,0
+96.8,44.8,arsenal,1
+3.0,50.3,man city,0
+91.5,43.5,arsenal,1
+12.8,62.0,man city,0
+79.8,27.0,arsenal,1
+86.5,24.0,arsenal,1
+90.0,13.4,arsenal,1
+3.5,73.7,man city,0
+5.4,86.6,man city,0
+19.2,93.9,man city,0
+80.8,6.1,arsenal,1
+20.8,93.6,man city,0
+70.5,0.0,arsenal,1
+59.5,11.1,arsenal,1
+48.2,27.0,arsenal,1
+59.1,13.4,arsenal,1
+67.9,10.2,arsenal,1
+59.6,35.0,arsenal,1
+68.9,76.0,arsenal,1
+84.3,86.1,arsenal,1
+69.6,81.0,arsenal,1
+69.8,72.0,arsenal,1
+75.5,81.5,arsenal,1
+64.7,67.2,arsenal,1
+64.7,29.7,arsenal,1
+70.3,53.0,arsenal,1
+74.8,79.2,arsenal,1
+83.3,89.5,arsenal,1
+75.8,73.7,arsenal,1
+88.8,15.9,arsenal,1
+11.4,72.2,man city,0
+18.9,81.3,man city,0
+22.0,80.5,man city,0
+29.4,80.9,man city,0
+23.6,73.2,man city,0
+7.8,53.7,man city,0
+35.4,75.8,man city,0
+42.3,95.4,man city,0
+37.1,87.8,man city,0
+34.0,67.2,man city,0
+17.4,54.9,man city,0
+64.7,100.0,arsenal,1
+41.0,89.5,arsenal,1
+30.8,58.4,arsenal,1
+30.6,24.8,arsenal,1
+35.1,3.1,arsenal,1
+25.1,23.4,arsenal,1
+19.9,69.2,arsenal,1
+43.6,65.8,arsenal,1
+55.2,43.6,man city,0
+57.6,54.2,man city,0
+43.2,46.2,arsenal,1
+56.8,53.8,man city,0
+63.1,29.9,man city,0
+58.6,13.4,man city,0
+52.8,25.3,man city,0
+57.5,17.8,man city,0
+59.1,36.7,man city,0
+43.8,35.5,man city,0
+46.5,30.1,man city,0
+41.9,51.5,man city,0
+45.5,31.4,man city,0
+52.9,49.0,man city,0
+40.4,45.7,man city,0
+43.2,35.9,man city,0
+37.5,47.2,man city,0
+61.2,36.8,man city,0
+65.8,39.4,man city,0
+74.4,37.2,man city,0
+25.6,62.8,arsenal,1
+25.4,65.2,arsenal,1
+25.4,65.2,arsenal,1
+43.0,36.5,arsenal,1
+54.4,67.5,man city,0
+58.8,65.9,man city,0
+59.4,57.5,man city,0
+72.7,9.2,man city,0
+68.6,27.5,man city,0
+60.5,63.6,man city,0
+69.4,73.8,man city,0
+58.9,66.3,man city,0
+69.2,68.9,man city,0
+30.8,31.1,arsenal,1
+30.2,29.0,arsenal,1
+36.4,36.2,arsenal,1
+63.6,63.8,man city,0
+61.0,51.5,man city,0
+62.5,46.7,man city,0
+46.4,43.4,man city,0
+61.7,14.0,man city,0
+63.1,27.8,man city,0
+73.6,7.4,man city,0
+66.3,17.5,man city,0
+56.8,29.8,man city,0
+57.9,25.3,man city,0
+44.2,30.8,man city,0
+47.4,67.7,man city,0
+57.0,91.1,man city,0
+41.4,64.1,man city,0
+51.6,31.1,man city,0
+60.7,7.4,man city,0
+10.8,83.5,arsenal,1
+14.7,96.9,arsenal,1
+73.4,0.0,man city,0
+95.8,26.0,man city,0
+96.0,13.8,man city,0
+4.0,86.2,arsenal,1
+96.4,14.6,man city,0
+4.7,45.3,arsenal,1
+55.3,14.9,arsenal,1
+38.1,80.0,man city,0
+45.9,15.7,arsenal,1
+52.6,26.8,arsenal,1
+34.0,43.6,arsenal,1
+23.6,47.9,arsenal,1
+31.9,91.7,man city,0
+70.9,0.0,arsenal,1
+83.6,3.4,arsenal,1
+76.7,5.1,arsenal,1
+82.1,10.3,arsenal,1
+85.3,5.2,arsenal,1
+86.4,12.6,arsenal,1
+82.1,5.5,arsenal,1
+77.3,12.6,arsenal,1
+80.6,3.2,arsenal,1
+61.6,25.0,arsenal,1
+68.6,13.1,arsenal,1
+72.7,15.9,arsenal,1
+18.7,89.3,man city,0
+70.5,0.0,arsenal,1
+89.1,22.8,arsenal,1
+91.7,33.9,arsenal,1
+96.2,39.8,arsenal,1
+3.8,60.2,man city,0
+5.7,57.6,man city,0
+6.5,57.0,man city,0
+66.7,100.0,arsenal,1
+46.7,89.7,arsenal,1
+35.5,39.9,arsenal,1
+31.2,25.6,arsenal,1
+27.5,61.9,arsenal,1
+32.1,0.0,man city,0
+45.0,90.8,arsenal,1
+55.0,9.2,man city,0
+44.1,89.7,arsenal,1
+56.2,96.5,arsenal,1
+59.6,96.1,arsenal,1
+40.4,3.9,man city,0
+57.8,100.0,arsenal,1
+35.5,85.8,arsenal,1
+30.8,48.1,arsenal,1
+38.1,23.6,arsenal,1
+43.9,4.0,arsenal,1
+56.4,26.7,arsenal,1
+80.9,57.0,arsenal,1
+85.5,51.0,arsenal,1
+81.6,66.4,arsenal,1
+50.1,50.0,man city,0
+24.2,47.9,man city,0
+16.0,100.0,arsenal,1
+61.9,7.6,man city,0
+63.3,11.8,man city,0
+63.3,11.8,man city,0
+32.6,91.0,arsenal,1
+67.4,9.0,man city,0
+35.0,91.5,arsenal,1
+35.8,89.0,arsenal,1
+63.8,12.3,man city,0
+64.2,11.0,man city,0
+36.2,87.7,arsenal,1
+63.8,12.3,man city,0
+33.4,83.8,arsenal,1
+71.6,23.0,man city,0
+29.4,72.7,arsenal,1
+33.0,67.2,arsenal,1
+37.0,47.6,arsenal,1
+34.6,25.0,arsenal,1
+59.0,7.2,arsenal,1
+41.0,92.8,man city,0
+56.9,20.2,arsenal,1
+55.2,30.7,arsenal,1
+71.5,5.4,arsenal,1
+75.8,4.6,arsenal,1
+75.1,11.4,arsenal,1
+67.0,11.9,arsenal,1
+45.8,29.0,arsenal,1
+52.7,40.7,arsenal,1
+39.7,12.6,arsenal,1
+26.1,27.4,arsenal,1
+18.9,51.2,arsenal,1
+27.1,23.5,man city,0
+80.1,87.5,arsenal,1
+79.0,92.6,arsenal,1
+74.9,78.0,arsenal,1
+64.1,92.3,arsenal,1
+30.8,89.2,arsenal,1
+22.7,68.7,arsenal,1
+75.5,93.4,arsenal,1
+70.5,93.4,arsenal,1
+66.3,74.3,arsenal,1
+55.5,57.0,arsenal,1
+59.5,34.1,arsenal,1
+55.6,24.8,arsenal,1
+44.4,43.5,arsenal,1
+30.6,64.4,arsenal,1
+25.7,49.3,arsenal,1
+73.4,25.3,arsenal,1
+74.7,33.9,arsenal,1
+23.8,73.5,man city,0
+22.8,88.5,man city,0
+25.6,82.0,man city,0
+74.4,18.0,arsenal,1
+73.6,19.6,arsenal,1
+26.4,80.4,man city,0
+70.9,29.3,arsenal,1
+62.5,27.3,arsenal,1
+65.0,7.7,arsenal,1
+56.6,20.5,arsenal,1
+32.1,17.7,arsenal,1
+27.8,42.8,arsenal,1
+7.6,6.5,man city,0
+7.6,6.5,man city,0
+5.5,42.7,man city,0
+47.9,41.2,man city,0
+63.0,23.6,man city,0
+74.6,15.2,man city,0
+82.9,82.1,man city,0
+73.7,76.1,man city,0
+5.1,41.9,arsenal,1
+35.0,93.9,man city,0
+53.8,10.5,arsenal,1
+38.2,86.6,man city,0
+41.8,0.0,arsenal,1
+28.4,93.6,man city,0
+57.5,7.2,arsenal,1
+59.9,4.8,arsenal,1
+92.5,6.1,arsenal,1
+7.5,93.9,man city,0
+94.4,2.9,arsenal,1
+10.6,96.0,man city,0
+7.2,89.9,man city,0
+63.3,61.4,man city,0
+68.0,62.9,man city,0
+25.9,31.7,arsenal,1
+32.2,34.7,arsenal,1
+27.7,33.7,arsenal,1
+67.4,63.2,man city,0
+29.1,23.6,arsenal,1
+54.7,100.0,man city,0
+35.7,78.3,man city,0
+18.7,51.5,man city,0
+12.0,45.6,arsenal,1
+28.9,37.4,man city,0
+40.9,49.1,man city,0
+46.9,45.5,arsenal,1
+28.8,72.5,man city,0
